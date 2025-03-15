@@ -18,7 +18,7 @@ This report provides insights into **total revenue, units sold, and profit**, al
 - The insights here are based on **sample data** and do not reflect real business operations.
 
 ## 📌 Dashboard Preview  
-![Power BI Dashboard](./image.png)  
+![Power BI Dashboard](preview/dashboard.png)  
 
 ## 📢 Data Source
 This dataset was provided by **DataSense Analytics**.  
