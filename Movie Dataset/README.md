@@ -18,7 +18,7 @@ This report provides insights into **movie runtime, release year distribution, a
 - The insights generated are based on **educational sample data** and do not represent real-world industry statistics.
 
 ## 📌 Dashboard Preview  
-![Power BI Dashboard](preview/movie-dashboard.png)  
+![Power BI Dashboard](preview/movie-dataset.png)  
 
 ## 📢 Data Source
 This dataset was provided by our **university professor** for educational purposes in the **Experimental Statistics** subject.
